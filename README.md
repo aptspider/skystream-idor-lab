@@ -1,8 +1,8 @@
-SkyStream Airlines - Advanced IDOR/BOLA Lab ✈️
+##SkyStream Airlines - Advanced IDOR/BOLA Lab ✈️
 
-A realistic, self-contained educational lab simulating a Broken Object Level Authorization (BOLA) vulnerability, often referred to as IDOR.
+**A realistic, self-contained educational lab simulating a Broken Object Level Authorization (BOLA) vulnerability, often referred to as IDOR.
 
-Unlike basic CTF challenges that use simple integers (id=1), this lab implements Base64 ID Obfuscation to simulate modern, "secure-looking" API endpoints. It features a built-in "SkyProxy" interceptor tool, removing the need for external proxies during basic demonstrations.
+Unlike basic CTF challenges that use simple integers (id=1), this lab implements Base64 ID Obfuscation to simulate modern, "secure-looking" API endpoints. It features a built-in "SkyProxy" interceptor tool, removing the need for external proxies during basic demonstrations.**
 
 Scenario
 
